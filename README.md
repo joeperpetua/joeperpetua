@@ -5,7 +5,7 @@
 [Multilang - Mobile App](https://github.com/joeperpetua/multilang-app)  
 [Multilang - API](https://github.com/joeperpetua/multilang-web)  
 
-- 👨‍💻 All of my projects are available at [https://joeperpetua.github.io/portfolio/](https://joeperpetua.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://joeperpetua.github.io/portfolio/](https://joeperpetua.github.io/)
 
 - 🌎 I speak Spanish, English (C1), French (B1), German (A2), Japanese (N5)
 
