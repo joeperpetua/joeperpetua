@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joel</h1>
+<h1 align="center">Hey 👋, I'm Joel</h1>
 <h3 align="center">I enjoy developing and learning new stuff :)</h3>
 
 - 🔭 I’m currently working on  
