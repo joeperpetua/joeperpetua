@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joeperpetua.github.io/](https://joeperpetua.github.io/)
 
-- 🌎 I speak Spanish, English (C1), French (B1), German (A2), Japanese (N5)
+- 🌎 I speak Spanish, English (C2), French (B2), German (A2), Japanese (N5)
 
 - 🌱 I’m currently learning **Python - Flask, Java, German**
 
