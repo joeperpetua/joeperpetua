@@ -2,18 +2,21 @@
 <h3 align="center">I enjoy developing and learning new stuff :)</h3>
 
 - 🔭 I’m currently working on  
-[Multilang - Mobile App](https://github.com/joeperpetua/multilang-app)  
-[Multilang - API](https://github.com/joeperpetua/multilang-web)  
-[DJapones - Website](https://github.com/joeperpetua/djapones-webapp)  
-[DJapones - API](https://github.com/joeperpetua/djapones-api)  
+MultiLang
+[Mobile App](https://github.com/joeperpetua/multilang-app)  
+[Web](https://github.com/joeperpetua/multilang-web)  
+[API](https://github.com/joeperpetua/multilang-api)  
+  
+DJapones  
+[Web](https://github.com/joeperpetua/djapones-webapp)  
+[API](https://github.com/joeperpetua/djapones-api)  
 
-- 👨‍💻 All of my projects are available at [https://joeperpetua.github.io/](https://joeperpetua.github.io/)
+- 👨‍💻 All of my projects are available [here](https://joeperpetua.github.io/)
 
 - 🌎 I speak Spanish, English (C2), French (B2), German (A2), Japanese (N5)
 
-- 🌱 I’m currently learning **Python - Flask, Java, German**
+- 🌱 Currently learning **Python - Flask, Java, German**
 
-- 📫 How to reach me: **joelperpetua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
