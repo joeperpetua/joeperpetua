@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Joel</h1>
 <h3 align="center">I enjoy developing and learning new stuff :)</h3>
 
-- 🔭 I’m currently working on  
-MultiLang
-[Mobile App](https://github.com/joeperpetua/multilang-app)  
-[Web](https://github.com/joeperpetua/multilang-web)  
-[API](https://github.com/joeperpetua/multilang-api)  
+- 🔭 I’m currently working on:  
+  - ### MultiLang:  
+    - [Mobile App](https://github.com/joeperpetua/multilang-app)  
+    - [Web](https://github.com/joeperpetua/multilang-web)  
+    - [API](https://github.com/joeperpetua/multilang-api)  
   
-DJapones  
-[Web](https://github.com/joeperpetua/djapones-webapp)  
-[API](https://github.com/joeperpetua/djapones-api)  
+  - ### DJapones  
+    - [Web](https://github.com/joeperpetua/djapones-webapp)  
+    - [API](https://github.com/joeperpetua/djapones-api)  
 
 - 👨‍💻 All of my projects are available [here](https://joeperpetua.github.io/)
 
