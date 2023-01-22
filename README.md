@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api?username=joeperpetua&show_icons=true&theme=dark&locale=en" alt="joeperpetua" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/top-langs/?username=joeperpetua&layout=compact&theme=dark&locale=en" alt="joeperpetua" /></p>
 
-
+![](https://hit.yhype.me/github/profile?user_id=43834198)
