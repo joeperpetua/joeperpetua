@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://joeperpetua.github.io/)
 
-- 🌎 I speak Spanish, English (C2), French (B2), German (A2), Japanese (N5)
+- 🌎 I speak Spanish, English (C2), French (B2), German (B1), Japanese (N5)
 
 - 🌱 Currently learning **Python, Flutter, German**
 
