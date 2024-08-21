@@ -9,7 +9,7 @@
     - [Web](https://github.com/joeperpetua/multilang-web)  
     - [API](https://github.com/joeperpetua/multilang-api)
   - ### synology-api (contributor):  
-    - [Github](https://github.com/N4S4/synology-api)
+    - [Python Package](https://github.com/N4S4/synology-api)
 
 - 👨‍💻 All of my projects are available [here](https://joeperpetua.github.io/)
 
