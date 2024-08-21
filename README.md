@@ -15,7 +15,7 @@
 
 - 🌎 I speak Spanish, English (C2), French (B2), German (B1), Japanese (N5)
 
-- 🌱 Currently learning **Python, Flutter, German**
+- 🌱 Currently learning **Python, C#, Flutter, German**
 
 
 <h3 align="left">Connect with me:</h3>
