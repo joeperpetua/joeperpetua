@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Joel</h1>
 <h3 align="center">I enjoy developing and learning new stuff :)</h3>
 
-- 🔭 I’m currently working on:  
+- 🔭 I’m currently working on:
+  - ### Windows Advanced Attributes Manager:  
+    - [Desktop App](https://github.com/joeperpetua/WindowsAdvancedAttributesManager)
   - ### MultiLang:  
     - [Mobile App](https://github.com/joeperpetua/multilang-app)  
     - [Web](https://github.com/joeperpetua/multilang-web)  
-    - [API](https://github.com/joeperpetua/multilang-api)  
-  
-  - ### DJapones  
-    - [Web](https://github.com/joeperpetua/djapones-webapp)  
-    - [API](https://github.com/joeperpetua/djapones-api)  
+    - [API](https://github.com/joeperpetua/multilang-api)
+  - ### synology-api (contributor):  
+    - [Github](https://github.com/N4S4/synology-api)
 
 - 👨‍💻 All of my projects are available [here](https://joeperpetua.github.io/)
 
