@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Joel</h1>
-<h3 align="center">I enjoy developing and learning new stuff :)</h3>
+<h1 align="center">I'm Joel...</h1>
+<h3 align="center">and I enjoy developing and learning new stuff :)</h3>
 
 - 🔭 I’m currently working on:
   - ### Windows Advanced Attributes Manager:  
@@ -15,7 +15,7 @@
 
 - 🌎 I speak Spanish, English (C2), French (B2), German (B1), Japanese (N5)
 
-- 🌱 Currently learning **Python, C#, Flutter, German**
+- 🌱 Currently learning **Python, Cairo, C#, Flutter, German**
 
 
 <h3 align="left">Connect with me:</h3>
