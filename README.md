@@ -2,12 +2,8 @@
 <h3 align="center">and I enjoy developing and learning new stuff :)</h3>
 
 - 🔭 I’m currently working on:
-  - ### Windows Advanced Attributes Manager:  
-    - [Desktop App](https://github.com/joeperpetua/WindowsAdvancedAttributesManager)
-  - ### MultiLang:  
-    - [Mobile App](https://github.com/joeperpetua/multilang-app)  
-    - [Web](https://github.com/joeperpetua/multilang-web)  
-    - [API](https://github.com/joeperpetua/multilang-api)
+  - ### Overdrive:  
+    - [Web3 Game](https://github.com/FerneLabs) 
   - ### synology-api (contributor):  
     - [Python Package](https://github.com/N4S4/synology-api)
 
