@@ -2,8 +2,8 @@
 <h3 align="center">and I enjoy developing and learning new stuff :)</h3>
 
 - 🔭 I’m currently working on:
-  - ### Overdrive:  
-    - [Web3 Game](https://github.com/FerneLabs) 
+  - ### Overdrive @ Ferne::Labs:  
+    - [Web3 Game](https://github.com/FerneLabs/Overdrive) 
   - ### synology-api (contributor):  
     - [Python Package](https://github.com/N4S4/synology-api)
 
