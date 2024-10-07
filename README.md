@@ -15,7 +15,7 @@
 
 ## Profile
 ![Github profile rating](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api?username=joeperpetua&show_icons=true&theme=dark&locale=en)            
-![Most used languages](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/top-langs/?username=joeperpetua&layout=compact&theme=dark&locale=en) 
+![Most used languages](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/top-langs/?username=joeperpetua&layout=compact&theme=dark&locale=en&hide=TSQL,CSS,HTML&langs_count=6) 
 
 ## Some cool projects
 ### Desktop
