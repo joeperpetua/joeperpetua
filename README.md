@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on:
   - ### Overdrive @ Ferne::Labs:  
-    [![Readme Card](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/pin/?username=FerneLabs&repo=Overdrive&theme=dark)](https://github.com/FerneLabs/Overdrive) 
+    [![Readme Card](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/pin/?username=FerneLabs&repo=Overdrive&theme=dark)](https://github.com/FerneLabs/Overdrive)  
+    [![Readme Card](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/pin/?username=FerneLabs&repo=Overdrive-onchain&theme=dark)](https://github.com/FerneLabs/Overdrive-onchain) 
   - ### synology-api (contributor):
     [![Readme Card](https://github-readme-stats-jns1yovbs-joeperpetua.vercel.app/api/pin/?username=N4S4&repo=synology-api&theme=dark)](https://github.com/N4S4/synology-api) 
 
