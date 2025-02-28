@@ -30,15 +30,20 @@
   &nbsp;
   <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=lfglabs-dev&repo=starknet.quest&user=joeperpetua">
   &nbsp;
+</div>
+
+&nbsp;
+
+<div align="center">
   <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=dojo.unity&user=joeperpetua">
+  &nbsp;
+  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=book&user=joeperpetua">
   &nbsp;
 </div>
 
-  &nbsp;
+&nbsp;
   
 <div align="center">
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=book&user=joeperpetua">
-  &nbsp;
   <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua">
   &nbsp;
   <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=The-Marquis-Gaming&repo=checkers-dojo&user=joeperpetua">
