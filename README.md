@@ -26,27 +26,27 @@
 
 ### cool projects i have contributed to:
 <div align="center">
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=n4s4&repo=synology-api&user=joeperpetua">
+  <a href="https://github.com/n4s4/synology-api" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=n4s4&repo=synology-api&user=joeperpetua"></a>
   &nbsp;
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=lfglabs-dev&repo=starknet.quest&user=joeperpetua">
+  <a href="https://github.com/lfglabs-dev/starknet.quest" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=lfglabs-dev&repo=starknet.quest&user=joeperpetua"></a>
   &nbsp;
 </div>
 
 &nbsp;
 
 <div align="center">
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=dojo.unity&user=joeperpetua">
+  <a href="https://github.com/dojoengine/dojo.unity" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=dojo.unity&user=joeperpetua"></a>
   &nbsp;
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=book&user=joeperpetua">
+  <a href="https://github.com/dojoengine/book" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=dojoengine&repo=book&user=joeperpetua"></a>
   &nbsp;
 </div>
 
 &nbsp;
   
 <div align="center">
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua">
+  <a href="https://github.com/ByteBuildersLabs/ByteBeastsFrontend" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua"></a>
   &nbsp;
-  <img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=The-Marquis-Gaming&repo=checkers-dojo&user=joeperpetua">
+  <a href="https://github.com/The-Marquis-Gaming/checkers-dojo" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=The-Marquis-Gaming&repo=checkers-dojo&user=joeperpetua"></a>
   &nbsp;
 </div>
 
