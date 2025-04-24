@@ -11,7 +11,7 @@
       "from": "buenos aires, argentina",
     },
     "languages": ["english", "french", "german", "spanish"],
-    "hobbies": ["gym", "bouldering", "coding", "languages", "open source"],
+    "hobbies": ["gym", "bouldering", "language learning", "open source"],
     "currently": "building @ferne::labs and oss"
   }
   ```
