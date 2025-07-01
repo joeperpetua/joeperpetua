@@ -19,7 +19,8 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-kappa-dusky.vercel.app/api?username=joeperpetua&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-kappa-dusky.vercel.app/api/top-langs/?username=joeperpetua&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=html,css,php,tsql&size_weight=0.5&count_weight=0.5">
-  <!-- <img src ="https://github-readme-streak-stats.herokuapp.com?user=joeperpetua&theme=material-palenight&hide_border=true&background=FFFFFF00"> -->
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=joeperpetua&theme=material-palenight&hide_border=true&background=FFFFFF00"> 
 </p>
 
 
@@ -44,9 +45,9 @@
 &nbsp;
   
 <div align="center">
-  <a href="https://github.com/ByteBuildersLabs/ByteBeastsFrontend" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua"></a>
-  &nbsp;
   <a href="https://github.com/The-Marquis-Gaming/checkers-dojo" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=The-Marquis-Gaming&repo=checkers-dojo&user=joeperpetua"></a>
+  &nbsp;
+  <a href="https://github.com/ByteBuildersLabs/ByteBeastsFrontend" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua"></a>
   &nbsp;
 </div>
 
