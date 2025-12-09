@@ -47,7 +47,7 @@
 <div align="center">
   <a href="https://github.com/The-Marquis-Gaming/checkers-dojo" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=The-Marquis-Gaming&repo=checkers-dojo&user=joeperpetua"></a>
   &nbsp;
-  <a href="https://github.com/ByteBeasts/ByteBeastsFrontend" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBuildersLabs&repo=ByteBeastsFrontend&user=joeperpetua"></a>
+  <a href="https://github.com/ByteBeasts/ByteBeastsFrontend" rel="noreferrer" target="_blank"><img height="150px" width="auto" src="https://contributor-badge.vercel.app/api/repoUserContribution?owner=ByteBeasts&repo=ByteBeastsFrontend&user=joeperpetua"></a>
   &nbsp;
 </div>
 
