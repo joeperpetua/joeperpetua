@@ -12,7 +12,7 @@
     },
     "languages": ["english", "french", "german", "spanish"],
     "hobbies": ["gym", "language learning", "open source"],
-    "currently": "building @ferne::labs and oss"
+    "currently": "building @ ikarus security & ferne::labs + some oss"
   }
   ```
 
